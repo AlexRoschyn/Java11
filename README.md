@@ -1,2 +1,2 @@
 # Java11
-Course Java11
+Module1
